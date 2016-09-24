@@ -1,5 +1,5 @@
 {
-  "name": "My Harp App",
+  "name": "My DIREKTSPEED Server App",
   "basicAuth": "$HARP_AUTH",
   "environment": "$NODE_ENV"
 }
