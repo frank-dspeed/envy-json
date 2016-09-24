@@ -1,6 +1,6 @@
 {
   "name": "dssrv-envy-json",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Read a javascript object, JSON string, or JSON file and replace values like '$foo' with process.env.foo",
   "main": "index.js",
   "scripts": {
@@ -15,13 +15,16 @@
     "environment",
     "JSON"
   ],
-  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
-  "license": "ISC",
+ "contributors": [
+    "<zeke@sikelianos.com> (http://zeke.sikelianos.com/)"
+ ],
+ "author": "Frank Lemanschik",
+  "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/zeke/envy-json/issues"
+    "url": "https://github.com/frank-dspeed/dssrv-envy-json/issues"
   },
-  "homepage": "https://github.com/zeke/envy-json",
+  "homepage": "https://github.com/frank-dspeed/dssrv-envy-json",
   "devDependencies": {
-    "mocha": "^1.17.1"
+    "mocha": "^3.0.2"
   }
 }

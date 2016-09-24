@@ -1,5 +1,5 @@
 {
   "name": "My DIREKTSPEED Server App",
-  "basicAuth": "$HARP_AUTH",
+  "basicAuth": "$DSSRV_AUTH",
   "environment": "$NODE_ENV"
 }
