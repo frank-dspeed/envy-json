@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/frank-dspeed/dssrv-envy-json",
   "devDependencies": {
-    "mocha": "^4.0.0"
+    "mocha": "^7.1.0"
   }
 }
